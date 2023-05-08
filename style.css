@@ -1,0 +1,54 @@
+body{
+    height: auto;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #e09b96;
+}
+
+#cardAndBtnContainer{
+    display: flex;
+    flex-direction: row;
+    margin-top: 3%;
+}
+
+#mainContainer h1{
+    color: #f2e5e4;
+    text-align: center;
+}
+
+#dealBTN{
+    height: 6vh;
+    width: 10vw;
+    color: #e09b96;
+    background-color: #f2e5e4;
+    font-weight: 1000;
+    outline: none;
+    border: none;
+    margin-left: 70%;
+    border-radius: 8px;
+    
+}
+
+#cardsContainer{
+    height: auto;
+    width: 100vh;
+    margin-left: 10%;
+}
+
+img{
+    height: 100px;
+    width: 70px;
+}
+
+#btnAndUserInfo{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3%
+}
+
+#userCards{
+    height: auto;
+    width: 30vw;
+    margin-left: 3%;
+}
