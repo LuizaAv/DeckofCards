@@ -17,6 +17,13 @@ body{
     text-align: center;
 }
 
+#mainContainer p{
+    font-size: 30px;
+    font-weight: 600;
+    margin-left: 70%;
+    color: #f2e5e4;
+}
+
 #dealBTN{
     height: 6vh;
     width: 10vw;
